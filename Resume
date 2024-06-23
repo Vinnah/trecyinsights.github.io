@@ -64,55 +64,7 @@
 								<ul class="actions special">
 									<li><a href="https://public.tableau.com/app/profile/trecy.odede/viz/CovidDashboard_16830204626650/Coviddashboard" class="button large">View Project</a></li>
 								</ul>
-							</article>
-
-						<!-- Posts -->
-							<section class="posts">
-								<article>
-									<header>
-										<h2>COVID 19<br />
-										DATA EXPLORATION</a></h2>
-									</header>
-									<a href="https://github.com/Vinnah/DataExplorationInSQL/blob/main/Data%20exploration%20-%20Covid.sql" class="image fit"><img src="images/Covid - data exploration.jpg" alt="" /></a>
-									<p>In this project we use SQL Server to explore global COVID 19 data.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/Vinnah/DataExplorationInSQL/blob/main/Data%20exploration%20-%20Covid.sql" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2>AIRBNB<br />
-										DATA CLEANING</a></h2>
-									</header>
-									<a href="https://github.com/Vinnah/DataCleaningInSQL/blob/main/Data%20cleaning%20-%20Cape%20Town%20Housing.sql" class="image fit"><img src="images/AirBnB - Data cleaning.png" alt="" /></a>
-									<p>In this project we use SQL Server to clean some airbnb data.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/Vinnah/DataCleaningInSQL/blob/main/Data%20cleaning%20-%20Cape%20Town%20Housing.sql" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2>PYTHON<br />
-										DATA ANALYSIS</a></h2>
-									</header>
-									<a href="https://github.com/Vinnah/Pandas/blob/main/Pandas%20101%20-%20Exploratory%20Data%20Analysis%20in%20Pandas.ipynb" class="image fit"><img src="images/World population.png" alt="" /></a>
-									<p>In this project we use Python, Pandas in particular Exploratory Data Analysis.</p>
-									<ul class="actions special">
-										<li><a href="https://github.com/Vinnah/Pandas/blob/main/Pandas%20101%20-%20Exploratory%20Data%20Analysis%20in%20Pandas.ipynb" class="button">View Project</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<h2>TABLEAU<br />
-										DATA VISUALISATION</a></h2>
-									</header>
-									<a href="https://public.tableau.com/app/profile/trecy.odede/viz/CovidDashboard_16830204626650/Coviddashboard" class="image fit"><img src="images/Data visualization.png" alt="" /></a>
-									<p>In this project we use Tableau, to get visual insight on data used on the Covid19 data exploration project.</p>
-									<ul class="actions special">
-										<li><a href="https://public.tableau.com/app/profile/trecy.odede/viz/CovidDashboard_16830204626650/Coviddashboard" class="button">View Project</a></li>
-									</ul>
-								</article>
-							</section>
+							</article>		
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
